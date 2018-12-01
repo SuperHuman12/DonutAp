@@ -1,12 +1,7 @@
-![ƀ](/images/icon.png) breadwallet for Android
+Open Source Wallet App for Android
 ----------------------------------
 
-[![Get it on Google Play](/images/icon-google-play.png)](https://play.google.com/store/apps/details?id=com.breadwallet)
-
-### bitcoin done right
-
-This is the Android port of the breadwallet iOS app, which can be found [here](https://github.com/breadwallet/breadwallet/).
-
+### crypto app
 ### a completely standalone bitcoin wallet
 
 Unlike many other bitcoin wallets, breadwallet is a real standalone bitcoin client. There is no server to get hacked or go down, so you can always access your money. Using [SPV](https://en.bitcoin.it/wiki/Thin_Client_Security#Header-Only_Clients) mode, breadwallet connects directly to the bitcoin network with the fast performance you need on a mobile device.
@@ -38,3 +33,6 @@ Simplicity is breadwallet's core design principle. A simple backup phrase is all
 7. Initialize the submodules - <code>git submodule init</code>
 8. Update the submodules - <code>git submodule update</code>
 9. Build -> Rebuild Project
+
+
+IT's completely open source under the MIT Licence , do whatever you want with it! 
